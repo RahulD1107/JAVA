@@ -7,9 +7,6 @@ class java{
         for(int i=0;i<n;i++){
             arr[i]=scan.next().charAt(0);
         }
-          char  []unique=new char[n];
-         
-       
         for(int i=0;i<n;i++){
             
             int freq=0;
