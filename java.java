@@ -9,8 +9,7 @@ class java{
         }
           char  []unique=new char[n];
          
-        int r=0;
-        int count=0;
+       
         for(int i=0;i<n;i++){
             
             int freq=0;
